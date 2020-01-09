@@ -1,0 +1,24 @@
+i.icon {
+    font-size: 2em;
+}
+
+.container.main {
+    margin-top: 7.0em;
+}
+
+.ui .button {
+    margin-top: 20px;
+}
+
+#delete {
+    display: inline;
+}
+
+#date {
+    font-size: x-large;
+    background-color: bisque;
+}
+
+#desc {
+    font-size: 17px;
+}
